@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="xunit" Version="2.6.3" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.6.3" />
+    <PackageReference Include="coverlet.collector" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Reference only NON-UNITY files -->
+    <Compile Include="../QVS Test Runner/Assets/QVSTestRunner/Core/Attributes/*.cs" />
+    <Compile Include="../QVS Test Runner/Assets/QVSTestRunner/Core/Discovery/*.cs" />
+    <Compile Include="../QVS Test Runner/Assets/QVSTestRunner/Core/Runner/TestResult.cs" />
+    <Compile Include="../QVS Test Runner/Assets/QVSTestRunner/Core/Runner/TestRunner.cs" />
+  </ItemGroup>
+
+</Project>
