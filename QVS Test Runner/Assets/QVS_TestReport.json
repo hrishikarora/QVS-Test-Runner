@@ -1,11 +1,39 @@
 {
-    "total": 1,
-    "passed": 1,
+    "total": 5,
+    "passed": 5,
     "failed": 0,
     "results": [
         {
-            "ClassName": "SampleTest",
-            "MethodName": "SimpleTest",
+            "ClassName": "GameSceneTests",
+            "MethodName": "SceneLoadsSuccessfully",
+            "Passed": true,
+            "ErrorMessage": "",
+            "DurationMs": 19.385499954223634
+        },
+        {
+            "ClassName": "GameSceneTests",
+            "MethodName": "PlayerObjectExists",
+            "Passed": true,
+            "ErrorMessage": "",
+            "DurationMs": 18.180099487304689
+        },
+        {
+            "ClassName": "GameSceneTests",
+            "MethodName": "StartButtonExists",
+            "Passed": true,
+            "ErrorMessage": "",
+            "DurationMs": 17.576900482177736
+        },
+        {
+            "ClassName": "GameSceneTests",
+            "MethodName": "StartButtonInvokesCallback",
+            "Passed": true,
+            "ErrorMessage": "",
+            "DurationMs": 17.242000579833986
+        },
+        {
+            "ClassName": "GameSceneTests",
+            "MethodName": "EditorFPSIsAbove30",
             "Passed": true,
             "ErrorMessage": "",
             "DurationMs": 0.0
