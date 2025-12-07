@@ -14,10 +14,10 @@
 
   <ItemGroup>
     <!-- Reference only NON-UNITY files -->
-    <Compile Include="../QVS Test Runner/Assets/QVSTestRunner/Core/Attributes/*.cs" />
+    <Compile Include="../QVS Test Runner/Assets/QVSTestRunner/Core/Discovery/Attributes/*.cs" />
     <Compile Include="../QVS Test Runner/Assets/QVSTestRunner/Core/Discovery/*.cs" />
-    <Compile Include="../QVS Test Runner/Assets/QVSTestRunner/Core/Runner/TestResult.cs" />
-    <Compile Include="../QVS Test Runner/Assets/QVSTestRunner/Core/Runner/TestRunner.cs" />
+    <Compile Include="../QVS Test Runner/Assets/QVSTestRunner/Core/Reports/TestResult.cs" />
+    <Compile Include="../QVS Test Runner/Assets/QVSTestRunner/Core/Runtime/TestRunner.cs" />
   </ItemGroup>
 
 </Project>
