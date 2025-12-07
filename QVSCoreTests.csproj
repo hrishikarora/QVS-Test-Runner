@@ -18,7 +18,7 @@
     <Compile Include="../QVS Test Runner/Assets/QVSTestRunner/Core/Discovery/*.cs" />
     <Compile Include="../QVS Test Runner/Assets/QVSTestRunner/Core/Reports/TestResult.cs" />
     <Compile Include="../QVS Test Runner/Assets/QVSTestRunner/Core/Runtime/TestRunner.cs" />
-    <Compile Include="../QVS Test Runner/Assets/QVSTestRunner/Core/CITests/*.cs" />
+    <Compile Include="../QVS Test Runner/Assets/QVSTestRunner/Samples/CITestSamples.cs" />
   </ItemGroup>
 
 </Project>
