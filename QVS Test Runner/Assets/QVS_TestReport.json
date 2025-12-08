@@ -1,35 +1,35 @@
 {
     "total": 5,
-    "passed": 5,
-    "failed": 0,
+    "passed": 3,
+    "failed": 2,
     "results": [
         {
             "ClassName": "GameSceneTests",
             "MethodName": "SceneLoadsSuccessfully",
             "Passed": true,
             "ErrorMessage": "",
-            "DurationMs": 51.316200256347659
+            "DurationMs": 40.641998291015628
         },
         {
             "ClassName": "GameSceneTests",
             "MethodName": "PlayerObjectExists",
             "Passed": true,
             "ErrorMessage": "",
-            "DurationMs": 50.12730026245117
+            "DurationMs": 35.92530059814453
         },
         {
             "ClassName": "GameSceneTests",
             "MethodName": "StartButtonExists",
-            "Passed": true,
-            "ErrorMessage": "",
-            "DurationMs": 54.33879852294922
+            "Passed": false,
+            "ErrorMessage": "Exception has been thrown by the target of an invocation.",
+            "DurationMs": 0.0
         },
         {
             "ClassName": "GameSceneTests",
             "MethodName": "StartButtonInvokesCallback",
-            "Passed": true,
-            "ErrorMessage": "",
-            "DurationMs": 68.81390380859375
+            "Passed": false,
+            "ErrorMessage": "Exception has been thrown by the target of an invocation.",
+            "DurationMs": 0.0
         },
         {
             "ClassName": "GameSceneTests",
