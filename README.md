@@ -48,6 +48,9 @@ public class MathTests
 QVS Test Runner includes continuous integration support using **GitHub Actions**.  
 Every push to the repository triggers an automatic Unity build using the `game-ci" workflow.
 
+Test Framework Demo Video: https://drive.google.com/file/d/1I_dfzjoqXnoU7Nnj65UNo23Wnq-gb00a/view?usp=drive_link
+CI Demo Video: https://drive.google.com/file/d/1d0bF84o8hJ7_44PhRrq0O5G1O7fgaxpp/view?usp=drive_link
+
 <img width="1280" height="764" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/1ba5c88e-8379-4fce-b7d9-bcab5af64fa8" />
 <img width="1280" height="764" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/1f7140d1-6ef9-4989-bb4e-21f959c27b49" />
 
