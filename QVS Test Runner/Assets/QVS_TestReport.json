@@ -36,7 +36,7 @@
             "MethodName": "EditorFPSIsAbove30",
             "Passed": true,
             "ErrorMessage": "",
-            "DurationMs": 0.0
+            "DurationMs": 0.1
         }
     ]
 }
