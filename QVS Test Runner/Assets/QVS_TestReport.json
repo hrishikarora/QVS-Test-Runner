@@ -8,28 +8,28 @@
             "MethodName": "SceneLoadsSuccessfully",
             "Passed": true,
             "ErrorMessage": "",
-            "DurationMs": 19.385499954223634
+            "DurationMs": 51.316200256347659
         },
         {
             "ClassName": "GameSceneTests",
             "MethodName": "PlayerObjectExists",
             "Passed": true,
             "ErrorMessage": "",
-            "DurationMs": 18.180099487304689
+            "DurationMs": 50.12730026245117
         },
         {
             "ClassName": "GameSceneTests",
             "MethodName": "StartButtonExists",
             "Passed": true,
             "ErrorMessage": "",
-            "DurationMs": 17.576900482177736
+            "DurationMs": 54.33879852294922
         },
         {
             "ClassName": "GameSceneTests",
             "MethodName": "StartButtonInvokesCallback",
             "Passed": true,
             "ErrorMessage": "",
-            "DurationMs": 17.242000579833986
+            "DurationMs": 68.81390380859375
         },
         {
             "ClassName": "GameSceneTests",
