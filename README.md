@@ -1,7 +1,7 @@
 # QVS Test Runner Assignment
 QVS Test Runner is a Unity based test framework designed to automate tests. It uses simple attributes [TestClass], [Test] and simple reflection discovery to create testing workflow.
 
-**Note:** : This is a self created assignemnt, specifically to demonstrate skills relevant to the [QVS Mobile Automation role](https://jobs.ea.com/en_US/careers/JobDetail/211767) at EA.
+**Note:** : This is a self created assignment, specifically to demonstrate skills relevant to the [QVS Mobile Automation role](https://jobs.ea.com/en_US/careers/JobDetail/211767) at EA.
 
 # Demo Videos:
 Test Framework Demo Video: https://drive.google.com/file/d/1I_dfzjoqXnoU7Nnj65UNo23Wnq-gb00a/view?usp=drive_link
