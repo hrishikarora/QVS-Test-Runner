@@ -6,6 +6,13 @@ The goal of QVS Test Runner is to provide:
 - Easy integration directly inside Unity projects
 - **JSON-based reporting** for analysis.
 
+# How to run
+1. Open Unity Project
+2. In top navigation bar, go to QVS -> Test Runner.
+3. In new open window, press "Run Tests"
+4. It will automatically test and give results.
+5. Json file will be stored inside Assets/ having test results.
+
 # Writing a Test
 
 Test passes when completes without throwing an exception.  
