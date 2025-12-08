@@ -1,7 +1,12 @@
-# QVS Test Runner Assignment
-QVS Test Runner is a Unity based test framework designed to automate tests. It uses simple attributes [TestClass], [Test] and simple reflection discovery to create testing workflow.
+# Introduction
+Hi, I am **Hrishik Arora**[ℹ️](https://hrishikarora.github.io/), a unity game developer with experience in C#, automation workflows and tool development. I came across [this role](https://jobs.ea.com/en_US/careers/JobDetail/211767) and in an attempt to showcase my skills, I created a test framework to automate test.
 
-**Note:** : This is a self created assignment, specifically to demonstrate skills relevant to the [QVS Mobile Automation role](https://jobs.ea.com/en_US/careers/JobDetail/211767) at EA.
+**This opportunity excites me** and I look forward to further conversations.
+
+# QVS Test Runner Assignment
+QVS Test Runner is a Unity based test framework designed to automate QA tests. It uses simple attributes [TestClass], [Test] and simple reflection discovery to create testing workflow.
+
+**Note:** This is a self created assignment, specifically to demonstrate skills relevant to the [QVS Mobile Automation role](https://jobs.ea.com/en_US/careers/JobDetail/211767) at EA.
 
 # Demo Videos:
 Test Framework Demo Video: https://drive.google.com/file/d/1I_dfzjoqXnoU7Nnj65UNo23Wnq-gb00a/view?usp=drive_link
@@ -55,5 +60,3 @@ Every push to the repository triggers an automatic Unity build using the `game-c
 
 <img width="1280" height="764" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/1ba5c88e-8379-4fce-b7d9-bcab5af64fa8" />
 <img width="1280" height="764" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/1f7140d1-6ef9-4989-bb4e-21f959c27b49" />
-
-
